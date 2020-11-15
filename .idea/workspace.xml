@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="858e2e7b-6981-42ef-948b-9db6d13ea780" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Vue_JS_Tic_Tac_Toe_Extension.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asset/css/vue_practice.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asset/js/vue_practice.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asset/sound/click01.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asset/sound/error.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asset/sound/maple_arrow.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asset/sound/maple_login.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asset/sound/maple_sky.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asset/sound/maple_toy.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asset/sound/maple_victoria.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/圈圈叉叉小遊戲_修改後.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/圈圈叉叉小遊戲_範例.mp4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1kKYPkSm1cvuZ0CB86xHc9mRZZj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="858e2e7b-6981-42ef-948b-9db6d13ea780" name="Default Changelist" comment="" />
+      <created>1605450727931</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605450727931</updated>
+      <workItem from="1605450729059" duration="1741000" />
+      <workItem from="1605452637147" duration="113000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1605452678200">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1605452678200" />
+    <state x="468" y="144" width="605" height="536" key="find.popup" timestamp="1605452750608">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="468" y="144" width="605" height="536" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1605452750608" />
+  </component>
+</project>

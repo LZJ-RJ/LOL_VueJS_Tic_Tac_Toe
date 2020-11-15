@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Vue</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+          integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <script type="module" src="asset/js/vue_practice.js"></script>
+    <link rel="stylesheet" href="asset/css/vue_practice.css">
+</head>
+<body>
+<div id="root">
+    <h1>{{ title }}</h1>
+    <h2>練習</h2>
+    <h3>玩家1：{{ player_1 }}</h3>
+    <h3>玩家2：{{ player_2 }}</h3>
+    <button class="btn btn-primary" @click="start">開始/重來</button>
+    <button class="btn btn-primary" @click="changePlayer">改名字&重來</button>
+    <button class="btn btn-primary" @click="clear">清除</button>
+    <br>
+    <br>
+    <button id="play_music_btn" class="btn btn-primary" @click="play">播放</button>
+    <button class="btn btn-primary" @click="pause">暫停</button>
+    <button class="btn btn-primary" @click="next">下一首</button>
+    <button class="btn btn-primary" @click="last">上一首</button>
+    <br>
+    <br>
+    <div class="box">
+        <div class="line" v-for="(col, index) in cols" @click="statusChange(index)">
+            <div v-if="col.status==player_1" style="font-size: 30px;margin-top: 10px;">{{ player_1 }}</div>
+            <div v-if="col.status==player_2" style="font-size: 30px;margin-top: 10px;">{{ player_2 }}</div>
+        </div>
+    </div>
+    <div class="textbox">
+        <h1 v-if="turn==player_1">輪到 : {{ player_1 }}</h1>
+        <h1 v-if="turn==player_2">輪到 : {{ player_2 }}</h1>
+        <h1 v-if="turn==0">{{ wintext }}</h1>
+    </div>
+</div>
+</body>
+</html>
